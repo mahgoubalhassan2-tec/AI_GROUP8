@@ -1,0 +1,18 @@
+Group 8 | code AI-G08 | SWE 3513 Assignment 1
+Leader: Manzi Kassim, 25/27935, kassimmanzi55@gmail.com
+One shared GitHub repository. Each student commits only the files in this zip, from their own GitHub account.
+The leader submits the final Moodle package. Member 5 owns the release files.
+
+Members
+1. Aisha Niyonsaba | 2527104 | aishamiccaeli24@gmail.com | Data and UX lead
+2. Manzi Kassim | 25/27935 | kassimmanzi55@gmail.com | Group leader and regression engineer
+3. Inezaye Iwacu Adelphine | 25/27676 | Addyiwacu444@gmail.com | Classification engineer
+4. Mahgoub Adil Ahmed Alhassn | 25/28013 | mahgooubalhassan2@gmail.com | Clustering and QA engineer
+5. Ishimwe Sumaya | 25/27949 | Ug2527949@ines.ac.rw | Reproducibility and release lead
+
+How to commit
+1. Clone the single group repository.
+2. Copy the files from this zip into the repo, keeping the same paths.
+3. git add only those paths.
+4. Commit and push with your own GitHub account.
+5. Make a second commit only after you change something you understand (a check, a comment you can defend, a test, or a fix).

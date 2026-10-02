@@ -1,0 +1,18 @@
+ROLE
+Name: Mahgoub Adil Ahmed Alhassn
+Registration: 25/28013
+Email: mahgooubalhassan2@gmail.com
+Role: Member 4, Clustering and QA engineer
+
+Own these files
+- src/clustering.py
+
+Still required from you
+- evidence/TEST_LOG.pdf covering cross-pipeline checks
+- At least two meaningful Git commits on clustering and the test log
+- Be ready to change the k range and explain silhouette scores
+
+What this file already does
+- Uses input features only (not actual_yield_kg, not dispatch_attention, not record_id)
+- Standardizes features, compares k = 2..5 by silhouette, writes clustering_metrics.json, clusters.csv, and cluster_plot.png
+- Clusters are exploratory. They are not verified categories.
